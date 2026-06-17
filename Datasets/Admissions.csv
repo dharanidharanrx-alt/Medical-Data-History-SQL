@@ -1,0 +1,11 @@
+patient_id,admission_date,discharge_date,diagnosis,attending_doctor_id
+1,2018-09-20,2018-09-20,"Ineffective Breathin Pattern R/T Fluid Accumulatio",24
+1,2018-11-06,2018-11-08,"Ovarian Dermoid-Cyct",21
+3,2018-10-21,2018-10-27,"Congestive Heart Failure",8
+3,2019-01-24,2019-01-29,"Cardiac Arrest",2
+6,2018-06-13,2018-06-15,"Asthma Exacerbation",3
+6,2018-11-08,2018-11-09,"Uterine Fibroid",22
+7,2018-06-24,2018-07-03,Cancer,8
+8,2018-09-18,2018-09-21,Amigima,6
+9,2018-12-31,2018-12-31,"Ruptured Appendicitis",19
+9,2019-03-02,2019-03-09,Osteoarthritis,8
