@@ -17,25 +17,6 @@ This project demonstrates practical SQL proficiency applied to real-world health
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-medical-data-history-sql/
-│
-├── README.md                   ← You are here
-├── schema/
-│   └── schema_diagram.png      ← Entity-relationship diagram (4 tables)
-├── queries/
-│   ├── 01_basic_select_filtering.sql       ← Q1–Q10
-│   ├── 02_aggregates_admissions.sql        ← Q11–Q17
-│   ├── 03_string_functions_patterns.sql    ← Q18–Q22
-│   └── 04_joins_advanced_queries.sql       ← Q23–Q34
-└── docs/
-    └── PRSQL-02_Project_Documentation.pdf ← Full project write-up
-```
-
----
-
 ## 🗃️ Dataset Overview
 
 | Detail | Value |
@@ -258,4 +239,4 @@ WHERE  a.diagnosis = 'Epilepsy'
 
 ---
 
-*PRSQL-02 · Medical Data History SQL Project · Dharanidharan J · 2025*
+*· Medical Data History SQL Project · Dharanidharan J · 2025*
